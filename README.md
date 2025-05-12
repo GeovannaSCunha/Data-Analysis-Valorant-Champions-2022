@@ -21,7 +21,7 @@ O dataset contém estatísticas de 40 jogadores de 8 times diferentes, com as se
 - **Rounds Win**: Rounds vencidos.
 - **Rounds Lose**: Rounds perdidos.
 
-Coluna Adicionais:
+Colunas Adicionais:
 - **Rank**: Classificação final do time.
 - **Win %**: Porcentagem de rounds ganhos.
 
