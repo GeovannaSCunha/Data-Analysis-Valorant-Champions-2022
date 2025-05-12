@@ -46,9 +46,8 @@ Colunas Adicionais:
 - Jogadores na função 'Duelist' tiveram mais kills em média.
 
 # Como Usar
-1. Certifique-se de ter as bibliotecas pandas, numpy e matplotlib instaladas
-
-2. Execute as células sequencialmente para reproduzir a análise
+1. Certifique-se de ter as bibliotecas pandas, numpy e matplotlib instaladas.
+2. Execute as células sequencialmente para reproduzir a análise.
 
 # Requisitos
 - Python 3.x
